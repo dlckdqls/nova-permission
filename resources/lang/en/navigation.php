@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'sidebar-label' => 'Roles & Permissions',
+    'sidebar-label' => '운영자 기능',
 ];

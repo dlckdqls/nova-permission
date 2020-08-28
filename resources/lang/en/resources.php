@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'Roles' => 'Roles',
-    'Role' => 'Role',
-    'Permissions' => 'Permissions',
-    'Permission' => 'Permission',
+    'Roles' => '역할관리',
+    'Role' => '역할',
+    'Permissions' => '권한관리',
+    'Permission' => '권한',
 ];
